@@ -194,4 +194,4 @@ Here’s a structured **hands-on project guide** for your **DevOps students** to
 ✅ Automate workflows with GitHub Actions  
 ✅ Deploy applications using CI/CD  
 
-Would you like additional exercises on **Terraform, Kubernetes, or Jenkins** next? 🚀
+
