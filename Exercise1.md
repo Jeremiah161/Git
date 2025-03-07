@@ -275,8 +275,5 @@ A list of commits with branch structure should be displayed.
 
 ---
 
-### **💡 Next Steps**
-✅ Implement these exercises in a **lab environment**  
-✅ Use **GitHub Issues** to track progress  
-✅ Expand to **GitHub Actions & CI/CD pipelines**  
+  
 
